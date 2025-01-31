@@ -12,7 +12,7 @@ title: Test Fixture Generation with execution-spec-tests
 ---
 flowchart LR
   style C stroke:#333,stroke-width:2px
-  style D stroke:#333,stroke-width:2px
+  style D stroke:#333,stroke-width:2pxy
   style G stroke:#F9A825,stroke-width:2px
   style H stroke:#F9A825,stroke-width:2px
   
